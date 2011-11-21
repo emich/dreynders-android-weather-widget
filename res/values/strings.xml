@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, DreyndersActivity!</string>
-    <string name="app_name">Dreynders</string>
+    <string name="hello">Cette application est un widget. Afin d\'utiliser ce widget, faite un long clic sur votre homescreen, sélectionnez ensuite Widgets et puis Météo Reynders.</string>
+    <string name="app_name">Météo Reynders</string>
 
 </resources>
